@@ -1,0 +1,24 @@
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\Piyush\Desktop\ESociety\ESociety\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Piyush\Desktop\ESociety\ESociety\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Piyush\Desktop\ESociety\ESociety\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\Piyush\Desktop\ESociety\ESociety\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Piyush\Desktop\ESociety\ESociety\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Piyush\Desktop\ESociety\ESociety\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\pbhawsar2\OneDrive - DXC Production\Desktop\ESocietyProject+API\ESociety\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\pbhawsar2\OneDrive - DXC Production\Desktop\ESocietyProject+API\ESociety\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\pbhawsar2\OneDrive - DXC Production\Desktop\ESocietyProject+API\ESociety\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\pbhawsar2\OneDrive - DXC Production\Desktop\ESocietyProject+API\ESociety\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\pbhawsar2\OneDrive - DXC Production\Desktop\ESocietyProject+API\ESociety\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\pbhawsar2\OneDrive - DXC Production\Desktop\ESocietyProject+API\ESociety\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\pbhawsar2\Desktop\ESocietyProject+API\ESociety\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\pbhawsar2\Desktop\ESocietyProject+API\ESociety\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\pbhawsar2\Desktop\ESocietyProject+API\ESociety\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\pbhawsar2\Desktop\ESocietyProject+API\ESociety\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\pbhawsar2\Desktop\ESocietyProject+API\ESociety\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\pbhawsar2\Desktop\ESocietyProject+API\ESociety\EntityLayer\obj\Debug\EntityLayer.pdb

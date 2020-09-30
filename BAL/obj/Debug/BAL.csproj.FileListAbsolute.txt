@@ -1,0 +1,38 @@
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\BAL\bin\Debug\BAL.dll
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\BAL\bin\Debug\BAL.pdb
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\BAL\bin\Debug\EntityLayer.dll
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\BAL\bin\Debug\IDatabase.dll
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\BAL\bin\Debug\EntityLayer.pdb
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\BAL\bin\Debug\IDatabase.pdb
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\BAL\obj\Debug\BAL.dll
+C:\Users\dnandini\OneDrive - DXC Production\ESociety\BAL\obj\Debug\BAL.pdb
+C:\Users\Piyush\Desktop\Esociety\Esociety\BAL\bin\Debug\BAL.dll
+C:\Users\Piyush\Desktop\Esociety\Esociety\BAL\bin\Debug\BAL.pdb
+C:\Users\Piyush\Desktop\Esociety\Esociety\BAL\bin\Debug\EntityLayer.dll
+C:\Users\Piyush\Desktop\Esociety\Esociety\BAL\bin\Debug\IDatabase.dll
+C:\Users\Piyush\Desktop\Esociety\Esociety\BAL\bin\Debug\EntityLayer.pdb
+C:\Users\Piyush\Desktop\Esociety\Esociety\BAL\bin\Debug\IDatabase.pdb
+C:\Users\Piyush\Desktop\Esociety\Esociety\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+C:\Users\Piyush\Desktop\Esociety\Esociety\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Piyush\Desktop\Esociety\Esociety\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\Piyush\Desktop\Esociety\Esociety\BAL\obj\Debug\BAL.dll
+C:\Users\Piyush\Desktop\Esociety\Esociety\BAL\obj\Debug\BAL.pdb
+C:\Users\Piyush\Desktop\ESociety\BAL\bin\Debug\BAL.dll
+C:\Users\Piyush\Desktop\ESociety\BAL\bin\Debug\BAL.pdb
+C:\Users\Piyush\Desktop\ESociety\BAL\bin\Debug\EntityLayer.dll
+C:\Users\Piyush\Desktop\ESociety\BAL\bin\Debug\IDatabase.dll
+C:\Users\Piyush\Desktop\ESociety\BAL\bin\Debug\EntityLayer.pdb
+C:\Users\Piyush\Desktop\ESociety\BAL\bin\Debug\IDatabase.pdb
+C:\Users\Piyush\Desktop\ESociety\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+C:\Users\Piyush\Desktop\ESociety\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Piyush\Desktop\ESociety\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\Piyush\Desktop\ESociety\BAL\obj\Debug\BAL.dll
+C:\Users\Piyush\Desktop\ESociety\BAL\obj\Debug\BAL.pdb
+C:\Users\Piyush\Desktop\Esociety\BAL\bin\Debug\DALEF.dll
+C:\Users\Piyush\Desktop\Esociety\BAL\bin\Debug\EntityFramework.dll
+C:\Users\Piyush\Desktop\Esociety\BAL\bin\Debug\DALEF.pdb
+C:\Users\Piyush\Desktop\Esociety\BAL\bin\Debug\DALEF.dll.config
+C:\Users\Piyush\Desktop\Esociety\BAL\bin\Debug\EntityFramework.xml
